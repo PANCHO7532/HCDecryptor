@@ -80,7 +80,7 @@ if(showHelp) {
         "Usage: node script.js [--args -a...]",
         "",
         "--keyFile, -k\t\tSpecify an exact path for a custom keyFile",
-        "--language, -l\t\tSet a custom language for outgoing bot messages",
+        "--language, -l\t\tSet a custom language for the console output/results",
         "--raw, -r\t\tDisplay only RAW output (without any kind of parsing)",
         "--json, -j\t\tDisplay only JSON output",
         "--help, -h\t\tDisplay this help text"

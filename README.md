@@ -18,7 +18,7 @@ Decryptor for HTTP Custom and SocksHTTP-based configuration files.
 
 ```
 -k, --keyFile           Specify an exact path for a custom keyFile
--l, --language          Set a custom language for outgoing bot messages
+-l, --language          Set a custom language for the console output/results
 -r, --raw               Display only RAW output (without any kind of parsing)
 -j, --json              Display only JSON output
 -h, --help              Display the help
