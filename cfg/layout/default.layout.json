@@ -1,0 +1,11 @@
+{
+    "comment":[
+        "This is the layout for the response content",
+        "header - text shown at the start of the message",
+        "footer - text shown at the end of the message",
+        "propertyIndicator - shown before property text"
+    ],
+    "propertyIndicator":"[>]",
+    "header":"",
+    "footer":""
+}

@@ -1,14 +1,15 @@
 {
   "name": "hcdecryptor",
-  "version": "1.0.4",
+  "version": "2.0.1",
   "description": "Decodification Tool",
-  "main": "index.js",
+  "main": "HCDecryptor.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "HCTools Group",
+  "author": "PANCHO7532",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "crypto-js": "^4.0.0"
+    "fast-xml-parser": "^3.17.5",
+    "html-entities": "^1.4.0"
   }
 }
