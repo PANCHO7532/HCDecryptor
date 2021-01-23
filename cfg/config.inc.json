@@ -1,1 +1,5 @@
-{"keyFile":"./cfg/keyFile.json","language":"english","layout":"default"}
+{
+    "keyFile":"./cfg/keyFile.json",
+    "language":"english",
+    "layout":"default"
+}
