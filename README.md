@@ -1,5 +1,5 @@
 # HCDecryptor
-Decryptor for HTTP Custom configuration files.
+Decryptor for HTTP Custom and SocksHTTP-based configuration files.
 ### This is an javascript port of HCDecryptor tool made by the HCTools Group, using the HCDrill-tg bot codebase
 
 # Requirements
