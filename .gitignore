@@ -3,5 +3,6 @@ no_deploy/
 node_modules/
 libTest/
 nodeBugReport/
+research/
 package-lock.json
 test.js

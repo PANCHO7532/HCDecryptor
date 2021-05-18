@@ -94,7 +94,7 @@ if(showHelp) {
 function loopFunction() {
     //this function will execute in an interval method every few seconds
     try {
-        fs.writeFileSync(__dirname + "/cfg/config.inc.json", JSON.stringify(configFile));
+        fs.writeFileSync(__dirname + "/cfg/config.inc.json", JSON.stringify(configFile, null, "\t"));
     } catch(error) {
         console.log("[ERROR] - An error occured writing the configuration file.");
         process.exit();
@@ -116,6 +116,7 @@ for(let c = 0; c < libMethodsArray.length; c++) {
     }
     if(decryptionStage["error"] != 1) { break; }
 }
+console.log(decryptionStage);
 if(decryptionStage["error"] == 1) {
     console.log("[ERROR] - " + languageFile["decryptionFailed"]);
     process.exit();
