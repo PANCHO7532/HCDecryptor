@@ -66,6 +66,7 @@
     "_antiSniff": "Anti-Sniff Protection",
     "_cryptedPasswordValueMD5": "Password Value (MD5)",
     "_cryptedHwidValueMD5": "HWID Value (MD5)",
+    "_serverPort": "Server Port",
     "_tlsPredefPort": "Pre-defined Port",
     "_tlsDnsConnectionType": "DNS Connection Type",
     "_tlsDnsServer": "DNS Server Address",
