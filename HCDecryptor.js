@@ -116,7 +116,6 @@ for(let c = 0; c < libMethodsArray.length; c++) {
     }
     if(decryptionStage["error"] != 1) { break; }
 }
-console.log(decryptionStage);
 if(decryptionStage["error"] == 1) {
     console.log("[ERROR] - " + languageFile["decryptionFailed"]);
     process.exit();
