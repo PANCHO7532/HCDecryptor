@@ -67,6 +67,7 @@
     "_cryptedPasswordValueMD5": "Password Value (MD5)",
     "_cryptedHwidValueMD5": "HWID Value (MD5)",
     "_serverPort": "Server Port",
+    "_usePayload": "Use Payload?",
     "_tlsPredefPort": "Pre-defined Port",
     "_tlsDnsConnectionType": "DNS Connection Type",
     "_tlsDnsServer": "DNS Server Address",
@@ -78,5 +79,8 @@
     "_aotPrimaryHost": "Primary host address",
     "_aotNode": "Server Node/Country",
     "_aotBaseTunnel": "Base Tunnel value",
+    "_aotServerGroup": "Server Group Host",
+    "_aotUseHostAsProxy": "Use server host as proxy",
+    "_aotServerPort": "Server Port",
     "_unknown":"Unknown field/value"
 }
