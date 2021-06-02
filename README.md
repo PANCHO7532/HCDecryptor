@@ -1,5 +1,5 @@
 # HCDecryptor
-Decryptor for HTTP Custom, APK Custom, eProxy and SocksHTTP-based configuration files.
+Decryptor for HTTP Custom, HTTP Injector, APK Custom, eProxy and SocksHTTP-based configuration files.
 ### This is an javascript port of HCDecryptor tool made by the HCTools Group, using the HCDrill-tg bot codebase
 
 # Requirements
